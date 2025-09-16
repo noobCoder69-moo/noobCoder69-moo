@@ -15,8 +15,8 @@
 ---
 
 ## 🧾 logs  
-- `2021` - excited for college untill i wasn't
-- `2022` - i love my gf (she left)
+- `2021` — excited for college untill i wasn't
+- `2022` — i love my gf (she left)
 - `2023` — i wanna be a hacker anyways what is github?
 - `2024` — realised hacking isn't for me if i dont know how to code
 - `2025` — backend + security dev arc officially unlocked.  
