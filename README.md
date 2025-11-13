@@ -25,7 +25,7 @@
 - patch security holes i may or may not have created myself (i never create them).  
 - vibe-code frontends until css reminds me i’m not the chosen one.
 
-## what i don't
+## ❌ what i don't
 - play guitar
 
 ---
